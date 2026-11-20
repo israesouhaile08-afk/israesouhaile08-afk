@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Israe! 👋
 
-<!--
-**israesouhaile08-afk/israesouhaile08-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about technology, creativity, and problem-solving. I enjoy exploring new technologies, experimenting with ideas, and turning concepts into projects.
+
+### 🌱 Currently Learning
+- HTML & CSS
+- JavaScript
+- Bootstrap
+- Python
+- Programming fundamentals & algorithms
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** HTML, CSS, Python, JavaScript
+- **Frameworks:** Bootstrap
+- **Tools:** Git, GitHub, VS Code
+
+### 🎯 My Goals
+- Improve my programming skills.
+- Build creative and useful projects.
+- Explore software development and new technologies.
+- Become a skilled software engineer.
+
+### 📌 A Little About Me
+- 🔍 Curious and always eager to learn.
+- 💡 I love exploring new ideas.
+- 🚀 Interested in web development and software engineering.
+- 🌷 Believer in learning by building.
+
+---
+
+### ✨ Thanks for visiting my profile!
