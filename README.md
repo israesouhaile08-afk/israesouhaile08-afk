@@ -26,10 +26,10 @@ I'm a Computer Science student passionate about technology, creativity, and prob
 - Become a skilled software engineer.
 
 ### 📌 A Little About Me
-- 🔍 Curious and always eager to learn.
-- 💡 I love exploring new ideas.
-- 🚀 Interested in web development and software engineering.
-- 🌷 Believer in learning by building.
+- Curious and always eager to learn.
+- I love exploring new ideas.
+- Interested in web development and software engineering.
+- Believer in learning by building.
 
 ---
 
